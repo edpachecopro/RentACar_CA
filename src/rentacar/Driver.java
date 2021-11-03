@@ -17,10 +17,13 @@ import java.io.FileReader;
 import java.io.IOException;
 
 // INCLUDE HERE THE LINK TO THE GIT REPOSITORY AS A COMMENT!!!!
+// https://github.com/edpachecopro/RentACar_CA.git
 
 
 // INCLUDE HERE THE FULL NAME AND STUDENT NUMBER OF BOTH TEAM MEMBERS 
-// AS A COMMENT!!!!
+// Edgard Pacheco da Silva - Student ID: 2020223
+// Fabio Teixeira Ramos - Student ID: 2020367
+
 
 
 
